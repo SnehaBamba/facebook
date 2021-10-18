@@ -12,9 +12,10 @@ This is gonna be the login page of Facebook
   <body>
     <h3> Facebook </h3>
     <br>
-    
+    <lable>Enter your email or username</lable>
    <input type="text">
     </input>
+  <lable>Enter your password</lable>
   <input type="password">
     </input>
     <button>Login</button> 
